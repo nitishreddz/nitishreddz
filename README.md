@@ -17,23 +17,18 @@ I'm a passionate Data Engineer with a strong interest in solving real-world prob
   Data Structures & Algorithms
   Data Modeling
   Writing clean, production-grade code in Python
-  
   🗃️ Databases & Query Engines - 
   Snowflake
   Starburst (Trino/Presto)
   Proficient in writing efficient SQL
-  
   🐍 Programming Languages - 
   Python (Pandas/Numpy, PySpark, SQLAlchemy, etc.)
-
-
   ⚙️ Frameworks & Libraries - 
   Apache Spark
   Iceberg
   DBT (Data Build Tool)
   Airflow (workflow orchestration)
   Airbyte (data ingestion)
-  
   ☁️ Cloud & DevOps - 
   AWS: S3, Glue, Iceberg, EMR Serverless, ECS, CloudWatch, SNS, Secrets Manager
   Experience working in distributed, cloud-native data environments
