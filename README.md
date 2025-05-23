@@ -2,12 +2,14 @@
 
 I'm a passionate Data Engineer with a strong interest in solving real-world problems through data. I thrive on building scalable, efficient, and reliable data pipelines that transform raw data into actionable insights.
 
+
 💡 **What I Do:**
 
 * Design and implement end-to-end ETL/ELT workflows
 * Work with tools like Apache Spark, Python, Airflow, DBT, Snowflake, and SQL
 * Automate data ingestion, transformation, and validation processes
 * Optimize data infrastructure for performance and scalability
+
 
 🛠️ **Tools & Technologies**
 
@@ -24,6 +26,7 @@ I'm a passionate Data Engineer with a strong interest in solving real-world prob
   🐍 Programming Languages - 
   Python (Pandas/Numpy, PySpark, SQLAlchemy, etc.)
 
+
   ⚙️ Frameworks & Libraries - 
   Apache Spark
   Iceberg
@@ -35,9 +38,11 @@ I'm a passionate Data Engineer with a strong interest in solving real-world prob
   AWS: S3, Glue, Iceberg, EMR Serverless, ECS, CloudWatch, SNS, Secrets Manager
   Experience working in distributed, cloud-native data environments
 
+
 🚀 **What Drives Me:**
 
 I'm always curious about emerging tools and frameworks in the modern data stack. I enjoy exploring open-source technologies, experimenting with cloud platforms, and applying best practices in data modeling and data governance.
+
 
 🤝** Open to Collaborations:**
 
