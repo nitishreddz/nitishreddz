@@ -13,38 +13,39 @@ I'm a passionate Data Engineer with a strong interest in solving real-world prob
 
 🛠️ **Tools & Technologies**
 
-  📚 Core Competencies - 
-  Data Structures & Algorithms,
-  Data Modeling,
-  Writing clean and production-grade code in Python
+    📚 Core Competencies - 
+    Data Structures & Algorithms,
+    Data Modeling,
+    Writing clean and production-grade code in Python
+    
+    🗃️ Databases & Query Engines - 
+    Snowflake,
+    Starburst (Trino/Presto),
+    Proficient in writing efficient SQL
+    
+    🐍 Programming Languages - 
+    Python (Pandas/Numpy, PySpark, SQLAlchemy, etc.)
+    
+    ⚙️ Frameworks & Libraries - 
+    Apache Spark,
+    Iceberg,
+    DBT (Data Build Tool),
+    Airflow (workflow orchestration),
+    Airbyte (data ingestion)
   
-  🗃️ Databases & Query Engines - 
-  Snowflake,
-  Starburst (Trino/Presto),
-  Proficient in writing efficient SQL
-  
-  🐍 Programming Languages - 
-  Python (Pandas/Numpy, PySpark, SQLAlchemy, etc.)
-  
-  ⚙️ Frameworks & Libraries - 
-  Apache Spark,
-  Iceberg,
-  DBT (Data Build Tool),
-  Airflow (workflow orchestration),
-  Airbyte (data ingestion)
-  
-  ☁️ Cloud & DevOps - 
-  AWS: S3, Glue, Iceberg, EMR Serverless, ECS, CloudWatch, SNS, Secrets Manager
+    ☁️ Cloud & DevOps - 
+    AWS: S3, Glue, Iceberg, EMR Serverless, ECS, CloudWatch, SNS, Secrets Manager
 
 
 🚀 **What Drives Me:**
 
-I'm always curious about emerging tools and frameworks in the modern data stack. I enjoy exploring open-source technologies, experimenting with cloud platforms, and applying best practices in data modeling and data governance.
+  I'm always curious about emerging tools and frameworks in the modern data stack. I enjoy exploring open-source technologies, experimenting with cloud platforms, and applying best practices in data modeling and data governance.
 
 
 🤝** Open to Collaborations:**
 
-If you're working on an interesting data project or open-source tool, let’s connect! I enjoy contributing to meaningful work that has real impact.
+  If you're working on an interesting data project or open-source tool, let’s connect! I enjoy contributing to meaningful work that has real impact.
+
 
 
 📫 **Let’s Connect:**
